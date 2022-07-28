@@ -1,6 +1,6 @@
 Responsive Webpage Using BootStrap
-![Screenshot (213)](https://user-images.githubusercontent.com/107758531/181514371-a02539f2-4ee1-41fa-8a75-d6bf2df9a450.png)
-![Screenshot (208)](https://user-images.githubusercontent.com/107758531/181514840-ba1f8ed3-b292-4922-b846-11f52fe3390a.png)
-![Screenshot (215)](https://user-images.githubusercontent.com/107758531/181516223-a8506e8c-fcb9-4dc8-8323-ebeab157ebb3.png)
-![Screenshot (211)](https://user-images.githubusercontent.com/107758531/181515414-e5cb80b1-82d1-4118-acd2-55da51a75312.png)
-
+![image](https://user-images.githubusercontent.com/107758531/181516542-f42d9279-c1fd-4086-af63-d5ad6d8b0c0c.png)
+![image](https://user-images.githubusercontent.com/107758531/181516753-bc425e41-b641-4dfe-8054-aa696ff529fb.png)
+![image](https://user-images.githubusercontent.com/107758531/181516930-a64d5f66-a02d-4b44-bb29-649fe63c356a.png)
+![image](https://user-images.githubusercontent.com/107758531/181517112-ea34bf58-e73a-43f2-a64b-10a66cb11137.png)
+![image](https://user-images.githubusercontent.com/107758531/181517222-3725a0ac-923e-48b6-9140-91644f906281.png)
